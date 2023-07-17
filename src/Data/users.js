@@ -1,15 +1,15 @@
 export const data = {
   profile: {
     id: 1,
-    name: "Naman",
+    name: "Shiva",
     image:
-      "https://us.123rf.com/450wm/yellowcrest/yellowcrest0911/yellowcrest091100073/5891555-a-portrait-of-an-indian-boy-against-a-black-background.jpg?ver=6",
+      "https://picsum.photos/200/300",
     contacts: [
       {
         id: 2,
-        name: "Vishal",
+        name: "atul",
         image:
-          "https://images.pexels.com/photos/1042140/pexels-photo-1042140.jpeg?cs=srgb&dl=pexels-rahul-shah-1042140.jpg&fm=jpg",
+          "https://picsum.photos/200/300",
         chatlog: [
           {
             text: "Hi Bro,How are you!",
@@ -45,9 +45,9 @@ export const data = {
       },
       {
         id: 3,
-        name: "Sourabh Srivastav",
+        name: "Raju",
         image:
-          "https://media.istockphoto.com/photos/portrait-of-a-confident-young-man-picture-id1141737652?b=1&k=20&m=1141737652&s=170667a&w=0&h=1Ni7irJ6VB9BXN7LbJIdNHP0h5EMoyJcRyvXl5_nzDs=",
+          "https://picsum.photos/200/300",
         chatlog: [
           {
             text: "Hi Dear,How are you!",
@@ -83,9 +83,9 @@ export const data = {
       },
       {
         id: 4,
-        name: "Arnab Khan",
+        name: "Ramcharan",
         image:
-          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGuly7YOKkWmN5QIMM3Gs6xXcYVoYvTSs6OA&usqp=CAU",
+          "https://picsum.photos/200/300",
         chatlog: [
           {
             text: "Hi Ritesh,How are you!",
@@ -121,16 +121,16 @@ export const data = {
       },
       {
         id: 5,
-        name: "Shubham Jha",
+        name: "Alia Bhatt",
         image:
-          "https://static8.depositphotos.com/1008939/800/i/600/depositphotos_8003753-stock-photo-indian-man.jpg",
+          "https://picsum.photos/200/300",
         chatlog: [],
       },
       {
         id: 6,
         name: "Manish Singh",
         image:
-          "https://www.thehandbook.com/cdn-cgi/image/width=300,height=300,fit=cover,q=85/https://files.thehandbook.com/uploads/2020/11/119045631-2755046064740370-3627763337265706601-n.jpg",
+          "https://picsum.photos/200/300",
         chatlog: [
           {
             text: "Hey Ritesh, where is Aman?",
@@ -166,9 +166,9 @@ export const data = {
       },
       {
         id: 7,
-        name: "Shivam Kumar",
+        name: "Pinky",
         image:
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Jensen_Ackles_by_Gage_Skidmore_2.jpg/750px-Jensen_Ackles_by_Gage_Skidmore_2.jpg",
+          "https://picsum.photos/200/300",
         chatlog: [
           {
             text: "Hey Aman, Arnab is asking about you.",
@@ -210,16 +210,16 @@ export const data = {
       },
       {
         id: 8,
-        name: "Jason Roy",
+        name: "Jessica",
         image:
-          "https://global-uploads.webflow.com/5d121ce15cf154f8f7d91740/5fb7e016798aa0ccca2ca0ba_Abhishek%20Dwivedi.jpg",
+          "https://picsum.photos/200/300",
         chatlog: [],
       },
       {
         id: 9,
-        name: "Nikhil Tiwari",
+        name: "Nikhil Balaghat",
         image:
-          "https://st4.depositphotos.com/13187390/i/600/depositphotos_272629826-stock-photo-handsome-young-indian-man-showing.jpg",
+          "https://picsum.photos/200/300",
         chatlog: [],
       },
     ],
