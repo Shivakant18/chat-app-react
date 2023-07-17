@@ -3,13 +3,13 @@ export const data = {
     id: 1,
     name: "Shiva",
     image:
-      "https://picsum.photos/200/300",
+      "https://picsum.photos/200/309",
     contacts: [
       {
         id: 2,
         name: "atul",
         image:
-          "https://picsum.photos/200/300",
+          "https://picsum.photos/200/308",
         chatlog: [
           {
             text: "Hi Bro,How are you!",
@@ -47,7 +47,7 @@ export const data = {
         id: 3,
         name: "Raju",
         image:
-          "https://picsum.photos/200/300",
+          "https://picsum.photos/200/307",
         chatlog: [
           {
             text: "Hi Dear,How are you!",
@@ -85,7 +85,7 @@ export const data = {
         id: 4,
         name: "Ramcharan",
         image:
-          "https://picsum.photos/200/300",
+          "https://picsum.photos/200/306",
         chatlog: [
           {
             text: "Hi Ritesh,How are you!",
@@ -123,14 +123,14 @@ export const data = {
         id: 5,
         name: "Alia Bhatt",
         image:
-          "https://picsum.photos/200/300",
+          "https://picsum.photos/200/305",
         chatlog: [],
       },
       {
         id: 6,
         name: "Manish Singh",
         image:
-          "https://picsum.photos/200/300",
+          "https://picsum.photos/200/304",
         chatlog: [
           {
             text: "Hey Ritesh, where is Aman?",
@@ -168,7 +168,7 @@ export const data = {
         id: 7,
         name: "Pinky",
         image:
-          "https://picsum.photos/200/300",
+          "https://picsum.photos/200/303",
         chatlog: [
           {
             text: "Hey Aman, Arnab is asking about you.",
@@ -212,14 +212,14 @@ export const data = {
         id: 8,
         name: "Jessica",
         image:
-          "https://picsum.photos/200/300",
+          "https://picsum.photos/200/301",
         chatlog: [],
       },
       {
         id: 9,
         name: "Nikhil Balaghat",
         image:
-          "https://picsum.photos/200/300",
+          "https://picsum.photos/200/302",
         chatlog: [],
       },
     ],
